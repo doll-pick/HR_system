@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500;900&display=swap');
+
+
+@import "nav.css";
+
+
+
+body {
+    margin:0;
+    height:200vh;
+    width:90vw;
+    background-color:rgba(255,255,255,0.3);
+    font-family: 'Inconsolata', monospace;
+
+}

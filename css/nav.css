@@ -1,0 +1,36 @@
+header {
+    display:flex;
+    width:1670px;
+    height:188px;
+    margin: 30px 0px 30px 100px;
+    justify-content:space-between;
+    align-items:center;
+}
+
+.nav_bar__title{
+    margin:0 0 40px 50px;
+    font-weight:500;
+    font-size:50px;
+}
+
+.nav_bar__menu{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    margin-right: 70px;
+    font-weight: 500;
+    font-size:20px;
+}
+
+.nav_bar__menu i {
+    margin-bottom:15px;
+    font-size:20px;
+    padding:10px;
+    border: 1px solid rgba(0,0,0,0.5);
+    border-radius:10px;
+}
+
+.nav_bar :nth-child(3) i{
+    background-color: rgba(0,0,0,0.8);
+    color:white;
+}
