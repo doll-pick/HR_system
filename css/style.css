@@ -2,6 +2,7 @@
 
 
 @import "nav.css";
+@import "main.css";
 
 
 
@@ -13,3 +14,4 @@ body {
     font-family: 'Inconsolata', monospace;
 
 }
+
